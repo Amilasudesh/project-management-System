@@ -1,4 +1,4 @@
-const express = require('express');
+const express = require('express');   //changes made
 const router = express.Router();
 const gravatar = require('gravatar');
 const bcrypt = require('bcryptjs');
